@@ -19,6 +19,12 @@ function generatePassword() {
       return generatePassword()
       }
 
+         
+  let lowerCase = confirm("Do you want lower case letters?");
+  let upperCase = confirm("Do you want upper case letters?"); 
+  let intigerCase = confirm("Do you want numbers letters?");
+  let specialCase = confirm("Do you want special characters letters?");
+  let char = "";
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
