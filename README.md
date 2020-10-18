@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a password generator that can be used with different character sets and number of characters. It does not keep a log of the passwords. It is also intended to cycle if invalid response are given.
+This is a password generator that can be used with different character sets and number of characters. It does not keep a log of the passwords. It is also intended to cycle if invalid responses are given.
 
 ## Installation
 
@@ -15,7 +15,7 @@ Here is an example image of the page: ![Image of webpage](Screenshot.PNG)
 
 ## Contributing
 
-I never did figure out how to ensure each selected character set was guaranteed to be used, so that is a known issue. I used the MIT as this is a common project and people are allowed to use. Pull requests and advice are welcome. For major changes please create an issue first about the changes to be made.
+I never did figure out how to ensure each selected character set was guaranteed to be used, so that is a known issue. I used the MIT as this is a common project and people are allowed to use it. Pull requests and advice are welcome. For major changes please create an issue first about the changes to be made.
 
 ## Credits
 
